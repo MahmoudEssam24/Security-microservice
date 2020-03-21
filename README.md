@@ -1,2 +1,4 @@
-# code-test
-A sample microservice project, with authentication, authorization and data service
+# Security-microservice
+A sample microservice, that will handle Authentication using:
+  - Spring boot.
+  - Spring security.
